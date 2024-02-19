@@ -1,7 +1,7 @@
 // ignore_for_file: use_key_in_widget_constructors, no_leading_underscores_for_local_identifiers
 
 import 'package:flutter/material.dart';
-import 'package:flutter_pablo_2/controllers/edit_controller.dart';
+import 'package:flutterpablo2/controller/edit_controller.dart';
 
 class EditProfileScreen extends StatelessWidget {
   final EditProfileController _editProfileController;
