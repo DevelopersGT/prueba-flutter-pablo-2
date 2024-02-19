@@ -1,7 +1,7 @@
 // ignore_for_file: use_key_in_widget_constructors
 
 import 'package:flutter/material.dart';
-import 'package:flutter_pablo_2/screens/user_list_screen.dart';
+import 'package:flutterpablo2/screens/user_list_screen.dart';
 import 'package:get/get.dart';
 
 void main() {
